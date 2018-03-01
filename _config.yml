@@ -1,0 +1,71 @@
+# Site settings
+encoding: utf-8
+
+title:       "Life Denis B."
+header_title: "Life Denis B."
+email:       hawk913@gmail.com
+author:      Denis
+description: "Life Denis B."
+baseurl:     ""
+url:         "https://hawk911.github.io"
+date_format: "%-d.%m.%Y"
+
+# Google services
+google_analytics: "UA-110087947-2"
+google_verification: ""
+
+# Facebook
+#facebook_app_id: "1414002802233483"
+
+# Optional features
+animated:             false
+show_related_posts:   false
+show_post_footer:    false
+show_social_icons:    false
+ajaxify_contact_form: true
+
+# Disqus post comments
+# (leave blank to disable Disqus)
+#disqus_shortname: "disqus_xxx"
+
+# Social icons
+github_username: hawk911
+bitbucket_username:
+stackoverflow_id:
+twitter_username: hawk911
+google_plus_id:
+linkedin_username:
+facebook_username: hawk911
+angellist_username:
+medium_id:
+bitcoin_url:
+paypal_url:
+flattr_button:
+instagram_username:
+
+# Post sharing icons
+show_sharing_icons: true
+share_text: 'Share this post!'
+# Change to 'true' to enable individual icons
+share_facebook: true
+share_twitter: true
+share_googleplus: false
+share_linkedin: false
+share_digg: false
+share_tumblr: false
+share_reddit: false
+share_stumbleupon: false
+share_hackernews: false
+
+# Build settings
+markdown:     kramdown
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    "/:title/"
+paginate:     15
+sass:
+  compressed: true
+
+# Gems
+gems: [jekyll-paginate]
+
