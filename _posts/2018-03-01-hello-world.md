@@ -1,5 +1,7 @@
 ---
 layout: post
+curlang: en
+comments: true
 title: Hello, world!
 ---
 
