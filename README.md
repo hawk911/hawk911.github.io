@@ -1,3 +1,3 @@
 ## My site
 
-My first site. Hello! 
+My first site about me. Hello! 
